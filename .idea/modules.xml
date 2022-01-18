@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayBasedQueue/ArrayBasedQueue.iml" filepath="$PROJECT_DIR$/ArrayBasedQueue/ArrayBasedQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayBasedStack/ArrayBasedStack.iml" filepath="$PROJECT_DIR$/ArrayBasedStack/ArrayBasedStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DoublyLinkedList/DoublyLinkedList.iml" filepath="$PROJECT_DIR$/DoublyLinkedList/DoublyLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedListBasedQueue/LinkedListBasedQueue.iml" filepath="$PROJECT_DIR$/LinkedListBasedQueue/LinkedListBasedQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedListBasedStack/LinkedListBasedStack.iml" filepath="$PROJECT_DIR$/LinkedListBasedStack/LinkedListBasedStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedListBasics/LinkedListBasics.iml" filepath="$PROJECT_DIR$/LinkedListBasics/LinkedListBasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedListEX/LinkedListEX.iml" filepath="$PROJECT_DIR$/LinkedListEX/LinkedListEX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedListLabEX/LinkedListLabEX.iml" filepath="$PROJECT_DIR$/LinkedListLabEX/LinkedListLabEX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrderedDoublyLinkedList/OrderedDoublyLinkedList.iml" filepath="$PROJECT_DIR$/OrderedDoublyLinkedList/OrderedDoublyLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrderedLinkedList/OrderedLinkedList.iml" filepath="$PROJECT_DIR$/OrderedLinkedList/OrderedLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue/Queue.iml" filepath="$PROJECT_DIR$/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
+    </modules>
+  </component>
+</project>
